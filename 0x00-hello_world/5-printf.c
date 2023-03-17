@@ -1,6 +1,7 @@
 #include <stdio.h>
-/** 
- * main - A program that print a line using the printf function
+/**
+ * main - A program that print a line using the printf f
+unction
  * Return: 0 (Success)
  */
 

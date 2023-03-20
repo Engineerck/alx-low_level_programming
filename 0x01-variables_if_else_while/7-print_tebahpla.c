@@ -1,9 +1,8 @@
 #include <stdio.h>
-
 /**
  * main - main function
  *
- * Ruturn; always 0
+ * Ruturn: always 0
  */
 int main(void)
 {
